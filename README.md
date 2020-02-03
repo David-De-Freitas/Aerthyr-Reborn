@@ -15,7 +15,7 @@ This project is a port to <b>UNITY3D</b> of my first year final project at the s
 <b>This game was created by the following artists and programmers:</b>
 * Thibaut Dailloux https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
 * Maryne Pfeiffer https://www.linkedin.com/in/maryne-pfeiffer-b90b7a194/
-* Melvyn
+* Melvyn Folituu
 <br/>
 
 * David De Freitas Garcia https://www.linkedin.com/in/david-de-freitas-7276a5195/
