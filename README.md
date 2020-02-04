@@ -3,7 +3,7 @@
 ### Aerthyr-Reborn is a 2D Rogue-like plateformer on which you follow Aerthyr in his adventures to become stronger.
 
 The world of Aerthyr have been destroyed during the old war, several millennia ago. Since then, the world have change and the life evolved.
-You will follow the adventures of Aerthyr, an humanoid Rabbit-Fox hybrid, on shattered flying islands, encounter differents type of enemies
+You will follow the adventures of Aerthyr, an humanoid Rabbit-Fox hybrid on shattered flying islands. Encounter differents type of enemies
 and fight againts the ruthless pirate crew of the Captain Creuchon.
 </br></br>
 <b><i>Fight, find new gears and grow stronger to beat the increasing difficulty of this world !</b></i>
